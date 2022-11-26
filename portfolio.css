@@ -1,0 +1,21 @@
+#nav-head {
+    background: linear-gradient(to left, lightgray, white);
+}
+.navbar-nav {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navbar-nav a:hover {
+    background-color: lightgreen;
+}
+#jumbotron h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#carousel-text {
+    color: black;
+}
+#con-3 h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#con-3 h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
